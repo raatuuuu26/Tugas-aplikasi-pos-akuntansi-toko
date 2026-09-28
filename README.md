@@ -171,7 +171,7 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 ![Dashboard](Transaksi-Umum.png)
 
 **LAPORAN TOKO&KEUANGAN**
-![Dashboard](laporan-Toko&Keuangan.png)
+![Dashboard](Laporan-Toko&Keuangan.png)
 
 **MANAJEMEN USER & AKSES**
 ![Dashboard](Manajemen-User&Akses.png)
@@ -180,4 +180,4 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 ![Dashboard](Pengaturan-Profil.png)
 
 **PENGATURAN PROFIL LANJUTAN**
-![Dashboard](Pengaturan-profil-Lanjutan.png)
+![Dashboard](Pengaturan-Profil-Lanjutan.png)
