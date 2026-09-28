@@ -181,3 +181,11 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 
 **PENGATURAN PROFIL LANJUTAN**
 ![Dashboard](Pengaturan-Profil-Lanjutan.png)
+
+---
+
+**PEMBAGIAN TUGAS**
+
+Rafa : Implementasi aplikasi + integrasi fitur utama 
+Andini & laudya : UI/UX & desain tampilan 
+Layin & Ratu : GitHub + dokumentasi + pengelolaan source code
