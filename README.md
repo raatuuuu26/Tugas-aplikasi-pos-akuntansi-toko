@@ -126,3 +126,9 @@ Semua akun demo menggunakan password yang sama: **`123456`**
     - Profil toko (Nama, Alamat, Telepon, Footer Struk).
     - Ekspor data lengkap ke file cadangan JSON (Backup).
     - Fitur **Reset ke Data Demo Default** untuk mengembalikan data awal presentasi kuliah sewaktu-waktu.
+
+---
+
+##Screenshoot Tampilan Aplikasi
+![Screenshoot aplikasi](images/Screenshoot(63).png)
+
