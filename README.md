@@ -129,5 +129,6 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 
 ---
 
-**## Screenshoot Tampilan Aplikasi**
+**## SCREENSHOOT TAMPILAN APLIKASI**
+###DASHBOARD
 ![Dashboard](Dashboard.png)
