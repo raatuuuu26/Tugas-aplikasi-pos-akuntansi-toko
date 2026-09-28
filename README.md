@@ -131,5 +131,53 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 
 **SCREENSHOOT TAMPILAN APLIKASI**
 
-###DASHBOARD
+**DASHBOARD**
 ![Dashboard](Dashboard.png)
+
+**POS**
+![POS](POS.png)
+
+**RIWAYAT TRANSAKSI PENJUALAN**
+![Dashboard](Riwayat-Transaksi-Penjualan.png)
+
+**PEMBELI&PENGADAAN BARANG**
+![Dashboard](Pengadaan.png)
+
+**RETUR PENJUALAN**
+![Dashboard](Retur-Penjualan.png)
+
+**RETUR PEMBELIAN**
+![Dashboard](Retur-Pembelian.png)
+
+**MANAJEMEN DATA PRODUK**
+![Dashboard](Data-Produk.png)
+
+**INVENTORI&MUTASI**
+![Dashboard](Inventori&Mutasi.png)
+
+**STOK OPNAME FISIK**
+![Dashboard](Stok-Opname-Fisik.png)
+
+**HALAMAN DAFTAR SUPPLIER**
+![Dashboard](Daftar-Supplier.png)
+
+**DAFTAR PELANGGAN**
+![Dashboard](Daftar-Pelanggan.png)
+
+**BUKU BESAR&AKUNTANSI**
+![Dashboard](Buku-Besar&Akuntansi.png)
+
+**JURNAL TRANSAKSI UMUM**
+![Dashboard](Transaksi-Umum.png)
+
+**LAPORAN TOKO&KEUANGAN**
+![Dashboard](laporan-Toko&Keuangan.png)
+
+**MANAJEMEN USER & AKSES**
+![Dashboard](Manajemen-User&Akses.png)
+
+**PENGATURAN PROFIL**
+![Dashboard](Pengaturan-Profil.png)
+
+**PENGATURAN PROFIL LANJUTAN**
+![Dashboard](Pengaturan-profil-Lanjutan.png)
