@@ -186,6 +186,6 @@ Semua akun demo menggunakan password yang sama: **`123456`**
 
 **PEMBAGIAN TUGAS**
 
-Rafa : Implementasi aplikasi + integrasi fitur utama 
-Andini & laudya : UI/UX & desain tampilan 
-Layin & Ratu : GitHub + dokumentasi + pengelolaan source code
+- Rafa : Implementasi aplikasi + integrasi fitur utama 
+- Andini & laudya : UI/UX & desain tampilan 
+- Layin & Ratu : GitHub + dokumentasi + pengelolaan source code
